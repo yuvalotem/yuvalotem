@@ -27,10 +27,9 @@ Hi, I'm [Yuval Lotem](https://abhisheknaidu.tech), a Full Stack Developer 🚀 f
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!-- <br /> -->
+
 **You Can Find Me On:**
-<br />
-<br />
+<br /><br />
 <a href="https://discord.gg/qUbApEc">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -53,7 +52,7 @@ Hi, I'm [Yuval Lotem](https://abhisheknaidu.tech), a Full Stack Developer 🚀 f
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
+<br /><br />
 
 -----
 
