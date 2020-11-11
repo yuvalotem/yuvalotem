@@ -2,15 +2,15 @@
 
 <br />
 
-I'm Yuval Lotem, a Full Stack Developer 🚀 from Israel, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+I'm Yuval Lotem, a Full Stack Developer 🚀 from Israel. currently, I'm a Community Team Member 🙍🏽‍♂️ and looking for my next job. Beside's programming, I enjoy surfing and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **About Me:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning next.js and python
+- 💬 Ask me about anything, I am happy to help
 - 📫 You can reach me on linkedin;
 - 📝[Resume](https://drive.google.com/file/d/1HvifTwBWN_gwii7WS_zk2Bmx-Ra0g0VPvhLP0HLxnTs/view)
 
