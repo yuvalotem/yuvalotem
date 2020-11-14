@@ -8,10 +8,10 @@ I'm Yuval Lotem, a Full Stack Developer 🚀 from Israel. currently, I'm a Commu
 
 **About Me:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 👨🏽‍💻 I’m currently working on something cool
 - 🌱 I’m currently learning next.js and python
 - 💬 Ask me about anything, I am happy to help
-- 📫 You can reach me on linkedin;
+- 📫 You can reach me on linkedin
 - 📝[Resume](https://drive.google.com/file/d/1HvifTwBWN_gwii7WS_zk2Bmx-Ra0g0VPvhLP0HLxnTs/view)
 
 **Languages and Tools:**
@@ -25,7 +25,16 @@ I'm Yuval Lotem, a Full Stack Developer 🚀 from Israel. currently, I'm a Commu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF"></code>
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
+![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
 
 
 **You Can Find Me On:**
