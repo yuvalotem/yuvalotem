@@ -2,7 +2,7 @@
 
 <br />
 
-I'm Yuval Lotem, a Full Stack Developer 🚀 from Israel. currently, I'm a Community Team Member 🙍🏽‍♂️ and looking for my next job. Beside's programming, I enjoy surfing and traveling.
+I'm Yuval Lotem, a Full Stack Developer 🚀 from Israel. currently, I'm <!-- a Community Team Member 🙍🏽‍♂️ and --> looking for my next job. Beside's programming, I enjoy surfing and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
