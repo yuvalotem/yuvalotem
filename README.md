@@ -9,7 +9,7 @@ I'm Yuval Lotem, a Full Stack Developer 🚀 from Israel. currently, I'm <!-- a 
 **About Me:**
 
 - 👨🏽‍💻 I’m currently working on my new project
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React Native
 - 💬 Ask me about anything, I am happy to help
 - 📫 You can reach me on linkedin
 - 📝[Resume](https://drive.google.com/file/d/1HvifTwBWN_gwii7WS_zk2Bmx-Ra0g0VPvhLP0HLxnTs/view)
