@@ -1,18 +1,16 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello Everybody <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
 
-I'm Yuval Lotem, a Full Stack Developer 🚀 from Israel. currently, I'm <!-- a Community Team Member 🙍🏽‍♂️ and --> looking for my next job. Beside's programming, I enjoy surfing and traveling.
+My name is Yuval Lotem, I'm a passionate junior mobile and frontend developer, always looking for challenges. Beside's programming, I enjoy working out, surfing and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **About Me:**
 
-- 👨🏽‍💻 I’m currently working on my new project
-- 🌱 I’m currently learning React Native
-- 💬 Ask me about anything, I am happy to help
-- 📫 You can reach me on linkedin
-- 📝[Resume](https://drive.google.com/file/d/1HvifTwBWN_gwii7WS_zk2Bmx-Ra0g0VPvhLP0HLxnTs/view)
+- 🌱 Always love learning new cool stuff
+- 💬 You can ask me anything, I am happy to help and meet new people
+- 📫 I'm available also on linkedin
 
 **Languages and Tools:**
 
@@ -50,4 +48,4 @@ I'm Yuval Lotem, a Full Stack Developer 🚀 from Israel. currently, I'm <!-- a 
 
 -----
 
-Last Edited on: 11/11/2020
+Last Edited on: 15/11/2022
