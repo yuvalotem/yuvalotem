@@ -1,18 +1,14 @@
-### Hello Everybody <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<br />
+**Yuval Lotem**
 
-My name is Yuval Lotem, I'm a passionate junior mobile and frontend developer, always looking for challenges. Beside's programming, I enjoy working out, surfing and traveling.
+Self educated passionate Sofware Developer with a can do attitude.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+Team player who loves challenges and collaborating with other people.
 
-**About Me:**
+Looking to use my learning capabilities and high analytic skills to make impact and find creative solutions for complicated problems.
 
-- 🌱 Always love learning new cool stuff
-- 💬 You can ask me anything, I am happy to help and meet new people
-- 📫 I'm available also on linkedin
-
-**Languages and Tools:**
+**My Stack and Tools:**
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -29,23 +25,14 @@ My name is Yuval Lotem, I'm a passionate junior mobile and frontend developer, a
 
 
 
-**You Can Find Me On:**
+**Reach Me On:**
 <br /><br />
-<a href="https://twitter.com/yuval_lotem">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/yuval-lotem-3915901b7/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Yuval Lotem's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/yuvalotem/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Yuval Lotem's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/yuval.lotem">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Yuval Lotem's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-<br /><br />
-
------
-
-Last Edited on: 15/11/2022
