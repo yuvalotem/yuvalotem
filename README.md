@@ -2,7 +2,7 @@
 
 **Yuval Lotem**
 
-Self educated passionate Sofware Developer with a can do attitude.
+Self educated passionate Software Developer with a can do attitude.
 
 Team player who loves challenges and collaborating with other people.
 
